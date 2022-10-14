@@ -1,0 +1,100 @@
+body{
+margin: 0;
+
+}
+.title-row{
+
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  background-color: white;
+}
+h1{
+  font-size: 90px;
+  padding: 50px;
+}
+h2{
+font-family: 'Merriweather', serif;
+padding-top: 100px;
+  margin: 20px 0 0 20px;
+
+}
+h3{
+padding: 30px;
+margin-bottom: 20px;
+font-family: 'Merriweather', serif;
+text-align: center;
+}
+.list{
+  padding: 20px;
+  background-color: #C98474;
+}
+p{
+  text-align: center;
+font-family: "Montserrat", sans-serif;
+  padding: 10px;
+  margin: 10px 0 0 10px;
+}
+
+
+
+/* list image */
+
+.title-img{
+
+height: 500px;
+}
+.Coled-img{
+  margin: 60px auto 0 30px;
+  text-align: center;
+  height: 100px;
+  width: 200px;
+}
+.capp-img{
+margin: 125px auto 0 30px;
+}
+.black-img{
+  margin: 110px 10px 0px 30px;
+  height: 200px;
+  width: 280px;
+}
+
+
+
+#facility{
+  font-family: 'Merriweather', serif;
+  background-color: white;
+  text-align: center;
+}
+.facility-icon{
+
+  padding-top: 50px;
+  height: 50px;
+}
+.fa-solid{
+  padding-top: 40px;
+}
+/* stay */
+.contact{
+  padding-right: 20px;
+text-align: center;
+}
+/* footer */
+.icon{
+    margin: 20px 10px;
+}
+#footer{
+  background-color: #FDEEDC;
+  text-align: center;
+padding: 7% 15%;
+
+}
+#price{
+ font-family: 'Merriweather', serif;
+}
+.row1{
+  margin-left: 20px;
+}
+.row2{
+  margin-left: 20px;
+  margin-top: 30px;
+}
